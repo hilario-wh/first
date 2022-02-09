@@ -22,3 +22,14 @@ body{
 	text-align: center;
 	padding: 1em;
 }
+
+#footer{
+	background-color: #212f35;
+	color: #fff;
+	padding: 2em;
+	text-align: center;
+}
+
+#footer a:link{
+	color: rgb(119, 131, 150);
+}
