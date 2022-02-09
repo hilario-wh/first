@@ -32,4 +32,7 @@ body{
 
 #footer a:link{
 	color: rgb(119, 131, 150);
+  
+#cabecera img{
+	max-width: 120px;
 }
