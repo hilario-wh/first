@@ -22,3 +22,7 @@ body{
 	text-align: center;
 	padding: 1em;
 }
+
+#cabecera img{
+	max-width: 120px;
+}
